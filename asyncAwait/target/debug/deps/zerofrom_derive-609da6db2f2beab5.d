@@ -1,0 +1,6 @@
+/home/seika/jollyland/fifrust/asyncAwait/target/debug/deps/zerofrom_derive-609da6db2f2beab5.d: /home/seika/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zerofrom-derive-0.1.6/src/lib.rs /home/seika/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zerofrom-derive-0.1.6/src/visitor.rs
+
+/home/seika/jollyland/fifrust/asyncAwait/target/debug/deps/libzerofrom_derive-609da6db2f2beab5.so: /home/seika/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zerofrom-derive-0.1.6/src/lib.rs /home/seika/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zerofrom-derive-0.1.6/src/visitor.rs
+
+/home/seika/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zerofrom-derive-0.1.6/src/lib.rs:
+/home/seika/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zerofrom-derive-0.1.6/src/visitor.rs:
