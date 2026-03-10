@@ -1,0 +1,15 @@
+/home/seika/jollyland/fifrust/extract_links/target/debug/deps/markup5ever-340cf4b7103e29d6.d: /home/seika/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/markup5ever-0.10.1/lib.rs /home/seika/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/markup5ever-0.10.1/data/mod.rs /home/seika/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/markup5ever-0.10.1/interface/mod.rs /home/seika/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/markup5ever-0.10.1/interface/tree_builder.rs /home/seika/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/markup5ever-0.10.1/serialize.rs /home/seika/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/markup5ever-0.10.1/util/buffer_queue.rs /home/seika/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/markup5ever-0.10.1/util/smallcharset.rs /home/seika/jollyland/fifrust/extract_links/target/debug/build/markup5ever-6ee96c59ea67ecca/out/generated.rs /home/seika/jollyland/fifrust/extract_links/target/debug/build/markup5ever-6ee96c59ea67ecca/out/named_entities.rs
+
+/home/seika/jollyland/fifrust/extract_links/target/debug/deps/libmarkup5ever-340cf4b7103e29d6.rmeta: /home/seika/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/markup5ever-0.10.1/lib.rs /home/seika/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/markup5ever-0.10.1/data/mod.rs /home/seika/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/markup5ever-0.10.1/interface/mod.rs /home/seika/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/markup5ever-0.10.1/interface/tree_builder.rs /home/seika/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/markup5ever-0.10.1/serialize.rs /home/seika/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/markup5ever-0.10.1/util/buffer_queue.rs /home/seika/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/markup5ever-0.10.1/util/smallcharset.rs /home/seika/jollyland/fifrust/extract_links/target/debug/build/markup5ever-6ee96c59ea67ecca/out/generated.rs /home/seika/jollyland/fifrust/extract_links/target/debug/build/markup5ever-6ee96c59ea67ecca/out/named_entities.rs
+
+/home/seika/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/markup5ever-0.10.1/lib.rs:
+/home/seika/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/markup5ever-0.10.1/data/mod.rs:
+/home/seika/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/markup5ever-0.10.1/interface/mod.rs:
+/home/seika/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/markup5ever-0.10.1/interface/tree_builder.rs:
+/home/seika/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/markup5ever-0.10.1/serialize.rs:
+/home/seika/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/markup5ever-0.10.1/util/buffer_queue.rs:
+/home/seika/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/markup5ever-0.10.1/util/smallcharset.rs:
+/home/seika/jollyland/fifrust/extract_links/target/debug/build/markup5ever-6ee96c59ea67ecca/out/generated.rs:
+/home/seika/jollyland/fifrust/extract_links/target/debug/build/markup5ever-6ee96c59ea67ecca/out/named_entities.rs:
+
+# env-dep:OUT_DIR=/home/seika/jollyland/fifrust/extract_links/target/debug/build/markup5ever-6ee96c59ea67ecca/out
